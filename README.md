@@ -1,6 +1,6 @@
 # Projeto de Extensão: Site-Vitrine "Caminhos do Sabores"
 
-![Caminhos do Sabores Homepage](httpsE-IMAGEM-DA-SUA-HOMEPAGE.png)
+![Caminhos do Sabores Homepage](iPad.png)
 
 ## 1. Visão Geral
 
